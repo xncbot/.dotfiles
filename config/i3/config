@@ -49,6 +49,9 @@ bindsym $mod+Return exec --no-startup-id alacritty
 # start a chromium window
 bindsym $mod+c exec --no-startup-id chromium
 
+# flameshot
+bindsym $mod+Shift+a --release exec /usr/bin/flameshot gui
+
 # kill focused window
 bindsym $mod+Shift+q kill
 
@@ -189,5 +192,5 @@ bar {
         status_command i3status
 }
 
-gaps inner 15
+gaps inner 20 
 
