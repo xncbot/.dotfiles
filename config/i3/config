@@ -195,4 +195,6 @@ new_float none
 #        status_command i3status
 # }
 
-gaps inner 20 
+gaps inner 20
+gaps outer -10
+
