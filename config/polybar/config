@@ -133,13 +133,13 @@ separator =
 
 ;dim-value = 1.0
 
-tray-position = right
+;tray-position = right
 tray-detached = false
 tray-maxsize = 20
-tray-background = ${colors.background}
+;tray-background = ${colors.background}
 tray-offset-x = 0
 tray-offset-y = 0
-tray-padding = 4
+;tray-padding = 4
 tray-scale = 1.0
 
 #i3: Make the bar appear below windows
